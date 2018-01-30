@@ -1,3 +1,3 @@
-var App = require('..\\src\\about.vue')
+var App = require('sidebar.vue')
 App.el = '#root'
 new Vue(App)
